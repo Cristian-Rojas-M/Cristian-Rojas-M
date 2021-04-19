@@ -22,6 +22,7 @@
 
 
 ## Contact me:
+![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010) </br>
+cristian4448@gmail.com 📧
 
-[![Instagram](https://img.shields.io/badge/Instagram-@cristianlezica-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cristianlezica)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-rojas-1675a41b5)
