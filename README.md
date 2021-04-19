@@ -1,5 +1,23 @@
-### Hi there 👋 , My name is Cristian Rojas.
+# Hi there 👋 , My name is Cristian Rojas 😃.
 
-#### Henry Grad from full stack developer.
+### 🥇Henry Grad from full stack developer.{[()]}
+#### I like to innovate and continue to acquire knowledge in this beautiful branch of programming 💻.
+
+## Skills 
+![JavaScript](https://img.shields.io/badge/JavaScript-E2FC08?style=for-the-badge&logo=javascript&logoColor=white&labelColor=999696) 
+![React-Redux](https://img.shields.io/badge/React_Redux-3157A9?style=for-the-badge&logo=react&logoColor=white&labelColor=999696) 
+![Express](https://img.shields.io/badge/Express-33A31A?style=for-the-badge&logo=express&logoColor=white&labelColor=999696) 
+![Postgresql](https://img.shields.io/badge/Postgresql-218495?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=999696)
+![Sequelize](https://img.shields.io/badge/Sequelize-218495?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=999696)</br>
+![TypeScript](https://img.shields.io/badge/TypeScript-1C7AD8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=999696)
+![Graphql](https://img.shields.io/badge/Graphql-E231E0?style=for-the-badge&logo=graphql&logoColor=white&labelColor=999696)
 
 
+
+## Projects 📰
+[![Web](https://img.shields.io/badge/Project_ecommerce-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://shortest.link/edQ)
+
+## Contact me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-@cristianlezica-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cristianlezica)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-rojas-1675a41b5)
