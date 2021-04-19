@@ -17,6 +17,10 @@
 ## Projects 📰
 [![Web](https://img.shields.io/badge/Project_ecommerce-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://shortest.link/edQ)
 
+## Studies:
+[![Web](https://img.shields.io/badge/Graduation-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://certificates.soyhenry.com/cert?id=f6f376b2-20e7-48bb-bcfd-74ec2b423fd9)
+
+
 ## Contact me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@cristianlezica-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cristianlezica)</br>
