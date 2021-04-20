@@ -1,6 +1,6 @@
 # Hi there 👋 , My name is Cristian Rojas 😃.
 
-### 🥇Henry Grad from full stack developer.{[()]}
+### 🥇Henry Grad from Full Stack Web Developer.{[()]}
 #### I like to innovate and continue to acquire knowledge in this beautiful branch of programming 💻.
 
 ## Skills 
