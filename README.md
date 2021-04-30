@@ -28,3 +28,5 @@ cristian4448@gmail.com 📧
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-rojas-1675a41b5)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Rojas-M&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Rojas-M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
