@@ -5,12 +5,15 @@
 
 ## Skills 
 ![JavaScript](https://img.shields.io/badge/JavaScript-E2FC08?style=for-the-badge&logo=javascript&logoColor=white&labelColor=999696) 
-![React-Redux](https://img.shields.io/badge/React_Redux-3157A9?style=for-the-badge&logo=react&logoColor=white&labelColor=999696) 
+![React](https://img.shields.io/badge/React-3157A9?style=for-the-badge&logo=react&logoColor=white&labelColor=999696) 
+![Redux](https://img.shields.io/badge/Redux-8938F1?style=for-the-badge&logo=redux&logoColor=white&labelColor=999696)
 ![Express](https://img.shields.io/badge/Express-33A31A?style=for-the-badge&logo=express&logoColor=white&labelColor=999696) 
 ![Postgresql](https://img.shields.io/badge/Postgresql-218495?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=999696)
 ![Sequelize](https://img.shields.io/badge/Sequelize-218495?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=999696)</br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C7AD8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=999696)
 ![Graphql](https://img.shields.io/badge/Graphql-E231E0?style=for-the-badge&logo=graphql&logoColor=white&labelColor=999696)
+![HTML](https://img.shields.io/badge/HTML5-EE5310?style=for-the-badge&logo=html5&logoColor=white&labelColor=999696)
+![CSS](https://img.shields.io/badge/CSS-2A7EF1?style=for-the-badge&logo=css3&logoColor=white&labelColor=999696)
 
 
 
